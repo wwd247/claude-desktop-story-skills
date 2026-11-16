@@ -1,3 +1,5 @@
+**Claude Desktop version.** Ready-to-upload zip files of all 24 skills for Claude Desktop are in the [claude-desktop](claude-desktop) folder. Adapted from [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) (MIT licence); all credit to the original author. The rest of this page is the original project's README.
+
 <a id="readme-top"></a>
 
 <div align="center">
