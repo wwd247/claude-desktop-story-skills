@@ -1,6 +1,6 @@
 # Claude Desktop packages
 
-This folder holds ready-to-upload zip files of the Story Skills for use in Claude Desktop (Settings > Capabilities > Skills > upload a skill as a zip).
+This folder holds ready-to-upload zip files of the Story Skills for use in Claude Desktop (Settings > Capabilities > Skills > upload a skill as a zip). Once a skill is installed in Claude Desktop, it is also available on your other Claude devices, including mobile.
 
 - `story-skills-ALL-IN-ONE.zip`: all 24 skills combined in a single zip, for one upload.
 - One zip per skill (for example `chapter-writing.zip`), if you prefer to install skills individually.
