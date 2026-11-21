@@ -1,4 +1,6 @@
-**Claude Desktop version.** Ready-to-upload zip files of all 24 skills for Claude Desktop are in the [claude-desktop](claude-desktop) folder. Once installed, they also work on all your Claude devices, including mobile. Adapted from [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) (MIT licence); all credit to the original author. The rest of this page is the original project's README.
+**Story Skills for Claude Desktop and mobile.** The original Story Skills were made for Claude Code, which runs in a terminal. I wanted to use them in the Claude Desktop app and on my phone, where you simply chat, so I restructured the project so that all 24 skills fit inside one zip file that uploads to Claude Desktop in a single step. Once installed, the skills also work on your other Claude devices, including mobile. The ready-to-upload files are in the [claude-desktop](claude-desktop) folder.
+
+Adapted from [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) (MIT licence); all credit for the skills goes to the original author. The rest of this page is the original project's README.
 
 <a id="readme-top"></a>
 
